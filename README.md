@@ -1,7 +1,7 @@
 # Heroku .NET Core Buildpack
 
 
-This is the [Heroku buildpack](https://devcenter.heroku.com/articles/buildpacks) for [ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/).
+This is the [Heroku buildpack](https://devcenter.heroku.com/articles/buildpacks) for [ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/). (Except it uses the worker dyno now)
 
 [![Actions Status](https://github.com/jincod/dotnetcore-buildpack/workflows/main/badge.svg)](https://github.com/jincod/dotnetcore-buildpack/actions)
 
